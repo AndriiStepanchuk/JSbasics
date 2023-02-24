@@ -1,0 +1,18 @@
+{
+  "name": "version1",
+  "version": "1.0.0",
+  "description": "dont",
+  "main": "1",
+  "scripts": {
+    "test": "1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
