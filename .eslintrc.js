@@ -13,7 +13,7 @@ module.exports = {
 	},
 	rules: {
 		indent: [
-			'warn',
+			'0',
 			'tab'
 		],
 		quotes: [
